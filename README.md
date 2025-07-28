@@ -1,1 +1,2 @@
-<img src= "https://github.com/KanakBorkar/5277415_Kanak-Borkar/blob/main/Git/Git_Certificate.jpg" alt="image">
+<img src= https://github.com/KanakBorkar/5277415_Kanak-Borkar/blob/0464514573a33fddf70734ef72048db5baa12dfa/SDLC/5277415_Kanak%20Sunil%20Borkar.jpg alt="image">
+<img src= https://github.com/KanakBorkar/5277415_Kanak-Borkar/blob/main/Git/5277415_Kanak%20Borkar.png alt="image">
